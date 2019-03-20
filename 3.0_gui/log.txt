@@ -1,0 +1,14 @@
+1,inter_error and bis_name_apply,y1q7v6yr@bccto.me,none
+1,inter_error and bis_name_apply,6sazsnyv@bccto.me,none
+1,inter_error and bis_name_apply,d16akxmy@bccto.me,none
+1,inter_error and bis_name_apply,ha7z8wm3@bccto.me,none
+1,bis_name_error,none,none
+1,success,test,test
+2,bis_name_error,none,none
+3,9_code_error,none,none
+1,bis_name_error,none,none
+1,bis_name_error,none,none
+1,bis_name_error,none,none
+1,inter_error and bis_name_apply,nijkcrth@bccto.me,none
+1,inter_error and bis_name_apply,ox29g3ty@bccto.me,none
+1,success,jbu7aiuz@bccto.me,13473018469

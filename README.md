@@ -1,0 +1,2 @@
+#amazon_auto_register_by_selenium
+添加了GUI和四线程GUI，简化操作方式，提高注册效率

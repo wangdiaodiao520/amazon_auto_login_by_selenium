@@ -5,3 +5,4 @@
 ＃运行应用app.py即可，在使用前应确保gecokdriver.exe位于环境变量或app.py同级目录  
 ＃GUI和四线程GUI已不可用已删除  
 ＃添加三线程GUI，并修复了一些bug  
+＃程序运行完毕后请启动clear.py，清理遗留firefox、gecokdriver、log进程
